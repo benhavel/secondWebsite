@@ -1549,7 +1549,7 @@ ul.blog_pagination li a:hover {
         transform: translateX(-200px);
     }
     to {
-        transform: translateX(1550px);
+        transform: translateX(2550px);
     }
 }
 
