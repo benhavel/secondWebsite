@@ -115,6 +115,11 @@ fieldset {
 * ----------------------------------------------------------------------------------------
 */
 
+.wait {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 200px;
+}
 .preloader {
     background: #000;
     bottom: 0;
