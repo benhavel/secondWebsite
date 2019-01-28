@@ -118,7 +118,7 @@ fieldset {
 .wait {
     margin: 0 auto;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 200px;
 }
 
 @media (max-width: 400px){
